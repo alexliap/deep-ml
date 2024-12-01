@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:35:16.773Z",
+  "generated_at": "2026-09-29T20:35:19.780Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -148,6 +148,32 @@
       "path": "problems/0024-single-neuron",
       "first_solved_at": "2024-11-22T15:09:41.722Z",
       "last_pushed_at": "2024-11-22T15:09:41.722Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2024-12-01T14:56:29.122Z",
+      "last_pushed_at": "2024-12-01T14:56:29.122Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2024-12-01T14:59:52.618Z",
+      "last_pushed_at": "2024-12-01T14:59:52.618Z",
       "language": "python",
       "lines": 1
     }
