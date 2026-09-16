@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:35:32.977Z",
+  "generated_at": "2026-09-29T20:35:35.304Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -462,6 +462,58 @@
       "last_pushed_at": "2026-05-05T13:11:33.235Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-09-16T13:59:28.920Z",
+      "last_pushed_at": "2026-09-16T13:59:28.920Z",
+      "language": "python",
+      "lines": 59
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-09-16T14:05:42.149Z",
+      "last_pushed_at": "2026-09-16T14:05:42.149Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-16T14:57:19.759Z",
+      "last_pushed_at": "2026-09-16T14:57:19.759Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-09-16T15:03:18.541Z",
+      "last_pushed_at": "2026-09-16T15:03:18.541Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

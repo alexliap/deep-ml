@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 33 problems · 0 labs · 3 math
+**40** solved · 37 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-03-21 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-05-04 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-03-21 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-26 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-11-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
@@ -36,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-11-22 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-11-22 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-11-22 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-16 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-11-22 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-03-21 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
@@ -43,6 +45,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-21 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-03-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-03-21 | [solution](problems/0007-matrix-transformation) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-16 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-16 | [solution](problems/0313-numerical-gradient-checking) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
 
