@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:35:35.304Z",
+  "generated_at": "2026-09-29T20:35:37.952Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -514,6 +514,110 @@
       "last_pushed_at": "2026-09-16T15:03:18.541Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-09-27T22:35:40.582Z",
+      "last_pushed_at": "2026-09-27T22:35:40.582Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-09-27T22:58:53.945Z",
+      "last_pushed_at": "2026-09-27T22:58:53.945Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-27T23:00:43.871Z",
+      "last_pushed_at": "2026-09-27T23:00:43.871Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-27T23:06:34.105Z",
+      "last_pushed_at": "2026-09-27T23:06:34.105Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-27T23:13:28.950Z",
+      "last_pushed_at": "2026-09-27T23:13:28.950Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-27T23:23:45.965Z",
+      "last_pushed_at": "2026-09-27T23:23:45.965Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-27T23:38:07.147Z",
+      "last_pushed_at": "2026-09-27T23:38:07.147Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-09-27T23:54:54.276Z",
+      "last_pushed_at": "2026-09-27T23:54:54.276Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
