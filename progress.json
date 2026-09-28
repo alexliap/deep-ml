@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:35:37.952Z",
+  "generated_at": "2026-09-29T20:35:41.334Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -618,6 +618,85 @@
       "last_pushed_at": "2026-09-27T23:54:54.276Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-09-28T11:58:08.369Z",
+      "last_pushed_at": "2026-09-28T11:58:08.369Z",
+      "language": "python",
+      "lines": 9
+    },
+    "math:125": {
+      "kind": "math",
+      "id": "125",
+      "title": "Effective Rank and the Entropy of a Spectrum",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/125",
+      "path": "math/0125-effective-rank-and-the-entropy-of-a-spectrum",
+      "first_solved_at": "2026-09-28T19:23:00.906Z",
+      "last_pushed_at": "2026-09-28T19:23:00.906Z"
+    },
+    "math:175": {
+      "kind": "math",
+      "id": "175",
+      "title": "TTS Serving Arithmetic: Token Rates, Buffers and Time to First Audio",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/175",
+      "path": "math/0175-tts-serving-arithmetic-token-rates-buffers-and-time-to-first-audio",
+      "first_solved_at": "2026-09-28T19:33:08.574Z",
+      "last_pushed_at": "2026-09-28T19:33:08.574Z"
+    },
+    "math:174": {
+      "kind": "math",
+      "id": "174",
+      "title": "ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/174",
+      "path": "math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks",
+      "first_solved_at": "2026-09-28T19:49:58.659Z",
+      "last_pushed_at": "2026-09-28T19:49:58.659Z"
+    },
+    "math:154": {
+      "kind": "math",
+      "id": "154",
+      "title": "LoRA Parameter and Compute Arithmetic",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/154",
+      "path": "math/0154-lora-parameter-and-compute-arithmetic",
+      "first_solved_at": "2026-09-28T19:58:15.652Z",
+      "last_pushed_at": "2026-09-28T19:58:15.652Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-28T20:00:18.312Z",
+      "last_pushed_at": "2026-09-28T20:00:18.312Z"
+    },
+    "math:187": {
+      "kind": "math",
+      "id": "187",
+      "title": "Adjacency, Degree and the Normalized Adjacency Matrix",
+      "difficulty": "easy",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/187",
+      "path": "math/0187-adjacency-degree-and-the-normalized-adjacency-matrix",
+      "first_solved_at": "2026-09-28T20:24:07.598Z",
+      "last_pushed_at": "2026-09-28T20:24:07.598Z"
     }
   }
 }
