@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:40:29.716Z",
+  "generated_at": "2026-09-29T19:54:43.418Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0169-cost-per-million-tokens-and-the-break-even-point",
       "first_solved_at": "2026-09-29T19:40:26.200Z",
       "last_pushed_at": "2026-09-29T19:40:26.200Z"
+    },
+    "math:164": {
+      "kind": "math",
+      "id": "164",
+      "title": "Perplexity as Exponentiated Cross-Entropy",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/164",
+      "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
+      "first_solved_at": "2026-09-29T19:54:42.497Z",
+      "last_pushed_at": "2026-09-29T19:54:42.497Z"
     }
   }
 }
