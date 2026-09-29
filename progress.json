@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:35:41.334Z",
+  "generated_at": "2026-09-29T20:35:43.502Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -641,7 +641,7 @@
       "url": "https://www.deep-ml.com/math-problems/125",
       "path": "math/0125-effective-rank-and-the-entropy-of-a-spectrum",
       "first_solved_at": "2026-09-28T19:23:00.906Z",
-      "last_pushed_at": "2026-09-28T19:23:00.906Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     },
     "math:175": {
       "kind": "math",
@@ -652,7 +652,7 @@
       "url": "https://www.deep-ml.com/math-problems/175",
       "path": "math/0175-tts-serving-arithmetic-token-rates-buffers-and-time-to-first-audio",
       "first_solved_at": "2026-09-28T19:33:08.574Z",
-      "last_pushed_at": "2026-09-28T19:33:08.574Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     },
     "math:174": {
       "kind": "math",
@@ -663,7 +663,7 @@
       "url": "https://www.deep-ml.com/math-problems/174",
       "path": "math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks",
       "first_solved_at": "2026-09-28T19:49:58.659Z",
-      "last_pushed_at": "2026-09-28T19:49:58.659Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     },
     "math:154": {
       "kind": "math",
@@ -674,7 +674,7 @@
       "url": "https://www.deep-ml.com/math-problems/154",
       "path": "math/0154-lora-parameter-and-compute-arithmetic",
       "first_solved_at": "2026-09-28T19:58:15.652Z",
-      "last_pushed_at": "2026-09-28T19:58:15.652Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     },
     "math:30": {
       "kind": "math",
@@ -685,7 +685,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-28T20:00:18.312Z",
-      "last_pushed_at": "2026-09-28T20:00:18.312Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     },
     "math:187": {
       "kind": "math",
@@ -696,7 +696,29 @@
       "url": "https://www.deep-ml.com/math-problems/187",
       "path": "math/0187-adjacency-degree-and-the-normalized-adjacency-matrix",
       "first_solved_at": "2026-09-28T20:24:07.598Z",
-      "last_pushed_at": "2026-09-28T20:24:07.598Z"
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-29T20:35:43.501Z",
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-29T20:35:43.501Z",
+      "last_pushed_at": "2026-09-29T20:35:43.501Z"
     }
   }
 }

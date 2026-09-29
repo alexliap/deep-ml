@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 46 problems · 0 labs · 9 math
+**57** solved · 46 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,10 +67,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks](https://www.deep-ml.com/math-problems/174) | easy | 2026-09-28 | [solution](math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-29 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Cost per Million Tokens and the Break-Even Point](https://www.deep-ml.com/math-problems/169) | easy | 2026-09-29 | [solution](math/0169-cost-per-million-tokens-and-the-break-even-point) |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-29 | [solution](math/0001-derivatives-and-gradients) |
 | [LoRA Parameter and Compute Arithmetic](https://www.deep-ml.com/math-problems/154) | easy | 2026-09-28 | [solution](math/0154-lora-parameter-and-compute-arithmetic) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-28 | [solution](math/0030-ml-workflow-basics) |
 | [Perplexity as Exponentiated Cross-Entropy](https://www.deep-ml.com/math-problems/164) | easy | 2026-09-29 | [solution](math/0164-perplexity-as-exponentiated-cross-entropy) |
 | [TTS Serving Arithmetic: Token Rates, Buffers and Time to First Audio](https://www.deep-ml.com/math-problems/175) | easy | 2026-09-28 | [solution](math/0175-tts-serving-arithmetic-token-rates-buffers-and-time-to-first-audio) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-29 | [solution](math/0007-vector-operations) |
 | [Effective Rank and the Entropy of a Spectrum](https://www.deep-ml.com/math-problems/125) | medium | 2026-09-28 | [solution](math/0125-effective-rank-and-the-entropy-of-a-spectrum) |
 
 ---
