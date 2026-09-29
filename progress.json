@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:01:40.168Z",
+  "generated_at": "2026-09-29T20:33:13.524Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0044-class-imbalance-and-proper-scoring",
       "first_solved_at": "2026-09-29T20:01:39.259Z",
       "last_pushed_at": "2026-09-29T20:01:39.259Z"
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-09-29T20:33:12.588Z",
+      "last_pushed_at": "2026-09-29T20:33:12.588Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
