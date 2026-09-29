@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:54:43.418Z",
+  "generated_at": "2026-09-29T20:01:40.168Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
       "first_solved_at": "2026-09-29T19:54:42.497Z",
       "last_pushed_at": "2026-09-29T19:54:42.497Z"
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-09-29T20:01:39.259Z",
+      "last_pushed_at": "2026-09-29T20:01:39.259Z"
     }
   }
 }

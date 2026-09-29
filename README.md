@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**3** solved · 0 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-29 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Cost per Million Tokens and the Break-Even Point](https://www.deep-ml.com/math-problems/169) | easy | 2026-09-29 | [solution](math/0169-cost-per-million-tokens-and-the-break-even-point) |
 | [Perplexity as Exponentiated Cross-Entropy](https://www.deep-ml.com/math-problems/164) | easy | 2026-09-29 | [solution](math/0164-perplexity-as-exponentiated-cross-entropy) |
 
