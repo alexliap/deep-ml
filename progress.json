@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-09-29T19:40:29.716Z",
+  "items": {
+    "math:169": {
+      "kind": "math",
+      "id": "169",
+      "title": "Cost per Million Tokens and the Break-Even Point",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/169",
+      "path": "math/0169-cost-per-million-tokens-and-the-break-even-point",
+      "first_solved_at": "2026-09-29T19:40:26.200Z",
+      "last_pushed_at": "2026-09-29T19:40:26.200Z"
+    }
+  }
+}
