@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:57:23.669Z",
+  "generated_at": "2026-10-02T17:57:44.749Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -833,9 +833,9 @@
       "url": "https://www.deep-ml.com/problems/410",
       "path": "problems/0410-speculative-decoding-end-to-end-simulation",
       "first_solved_at": "2026-10-02T17:53:24.420Z",
-      "last_pushed_at": "2026-10-02T17:57:23.084Z",
+      "last_pushed_at": "2026-10-02T17:57:43.964Z",
       "language": "python",
-      "lines": 60
+      "lines": 49
     }
   }
 }
