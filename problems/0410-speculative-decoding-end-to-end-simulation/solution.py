@@ -34,19 +34,21 @@ def speculative_decode(draft_probs: list, target_probs: list, draft_tokens: list
         k_plus_1 = np.where(cdf > sample_rand[acc_token_len])[0][0]
         accepted_tokens.extend([k_plus_1.item()])
 
-    elif acc_token_len < len(draft_tokens) and acc_token_len > 0:
+    # elif acc_token_len < len(draft_tokens) and acc_token_len > 0:
+    #     accepted_tokens.extend(draft_tokens[:acc_token_len])
+    #     idx = acc_token_len
+    #     adj_dist = np.maximum((target_probs[idx] - draft_probs[idx]), 0)
+    #     norm_adj_dist = adj_dist / np.sum(adj_dist)
+
+    #     cdf = np.cumsum(norm_adj_dist)
+    #     k_plus_1 = np.where(cdf > sample_rand[acc_token_len])[0][0]
+
+    #     accepted_tokens.extend([k_plus_1.item()])
+    else:
         accepted_tokens.extend(draft_tokens[:acc_token_len])
 
         idx = acc_token_len
         adj_dist = np.maximum((target_probs[idx] - draft_probs[idx]), 0)
-        norm_adj_dist = adj_dist / np.sum(adj_dist)
-
-        cdf = np.cumsum(norm_adj_dist)
-        k_plus_1 = np.where(cdf > sample_rand[acc_token_len])[0][0]
-
-        accepted_tokens.extend([k_plus_1.item()])
-    else:
-        adj_dist = np.maximum((target_probs[0] - draft_probs[0]), 0)
         norm_adj_dist = adj_dist / np.sum(adj_dist)
 
         cdf = np.cumsum(norm_adj_dist)
