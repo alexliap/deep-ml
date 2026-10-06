@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:05:18.738Z",
+  "generated_at": "2026-10-06T20:27:26.403Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -888,6 +888,19 @@
       "last_pushed_at": "2026-10-06T20:05:17.980Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1041": {
+      "kind": "problem",
+      "id": "1041",
+      "title": "Truncate KV Cache for Sliding Window Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1041",
+      "path": "problems/1041-truncate-kv-cache-for-sliding-window-attention",
+      "first_solved_at": "2026-10-06T20:27:25.664Z",
+      "last_pushed_at": "2026-10-06T20:27:25.664Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

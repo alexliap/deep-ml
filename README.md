@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 59 problems · 0 labs · 11 math
+**71** solved · 60 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-10-06 | [solution](problems/0388-sliding-window-attention) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-01 | [solution](problems/0383-top-p-nucleus-sampling) |
+| [Truncate KV Cache for Sliding Window Attention](https://www.deep-ml.com/problems/1041) | medium | 2026-10-06 | [solution](problems/1041-truncate-kv-cache-for-sliding-window-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-02 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 
