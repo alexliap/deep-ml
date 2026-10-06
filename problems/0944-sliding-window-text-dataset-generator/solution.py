@@ -13,9 +13,6 @@ def sliding_window_dataset(token_ids: list[int], max_length: int, stride: int) -
     examples = []
     i = 0
     while i+max_length < len(token_ids):
-    # for i in range(0, len(token_ids)+1, stride):
-    #     if i+max_length > len(token_ids):
-    #         break
         x = token_ids[i:i+max_length]
         y = token_ids[i+1:i+max_length+1]
 

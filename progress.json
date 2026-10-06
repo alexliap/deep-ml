@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:54:55.084Z",
+  "generated_at": "2026-10-06T19:55:09.434Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -872,9 +872,9 @@
       "url": "https://www.deep-ml.com/problems/944",
       "path": "problems/0944-sliding-window-text-dataset-generator",
       "first_solved_at": "2026-10-06T19:54:54.229Z",
-      "last_pushed_at": "2026-10-06T19:54:54.229Z",
+      "last_pushed_at": "2026-10-06T19:55:07.564Z",
       "language": "python",
-      "lines": 26
+      "lines": 23
     }
   }
 }
