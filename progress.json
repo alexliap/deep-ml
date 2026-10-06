@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:55:09.434Z",
+  "generated_at": "2026-10-06T20:05:18.738Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -875,6 +875,19 @@
       "last_pushed_at": "2026-10-06T19:55:07.564Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1014": {
+      "kind": "problem",
+      "id": "1014",
+      "title": "KV Cache Estimator with Sliding Window Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1014",
+      "path": "problems/1014-kv-cache-estimator-with-sliding-window-attention",
+      "first_solved_at": "2026-10-06T20:05:17.980Z",
+      "last_pushed_at": "2026-10-06T20:05:17.980Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

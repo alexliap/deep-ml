@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**69** solved · 58 problems · 0 labs · 11 math
+**70** solved · 59 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-03-21 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-21 | [solution](problems/0017-k-means-clustering) |
+| [KV Cache Estimator with Sliding Window Attention](https://www.deep-ml.com/problems/1014) | medium | 2026-10-06 | [solution](problems/1014-kv-cache-estimator-with-sliding-window-attention) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-03-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-03-21 | [solution](problems/0007-matrix-transformation) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-16 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
