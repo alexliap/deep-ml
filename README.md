@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 56 problems · 0 labs · 11 math
+**68** solved · 57 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-16 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-30 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-16 | [solution](problems/0313-numerical-gradient-checking) |
+| [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-10-06 | [solution](problems/0388-sliding-window-attention) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-01 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
