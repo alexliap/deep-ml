@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 61 problems · 0 labs · 11 math
+**73** solved · 62 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-02 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-04 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-07 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-03-21 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-26 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-21 | [solution](problems/0017-k-means-clustering) |
