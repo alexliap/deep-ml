@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**77** solved · 66 problems · 0 labs · 11 math
+**78** solved · 67 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-29 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2024-11-22 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-08 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-10-08 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-27 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-27 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-27 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
