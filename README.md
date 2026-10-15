@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 68 problems · 0 labs · 11 math
+**80** solved · 69 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-09-30 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-12-01 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-03-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-15 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-11-22 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-11-22 | [solution](problems/0024-single-neuron) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-10-06 | [solution](problems/0944-sliding-window-text-dataset-generator) |
