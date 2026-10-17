@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 69 problems · 0 labs · 12 math
+**82** solved · 69 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -98,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [TTS Serving Arithmetic: Token Rates, Buffers and Time to First Audio](https://www.deep-ml.com/math-problems/175) | easy | 2026-09-28 | [solution](math/0175-tts-serving-arithmetic-token-rates-buffers-and-time-to-first-audio) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-29 | [solution](math/0007-vector-operations) |
 | [Effective Rank and the Entropy of a Spectrum](https://www.deep-ml.com/math-problems/125) | medium | 2026-09-28 | [solution](math/0125-effective-rank-and-the-entropy-of-a-spectrum) |
+| [RoPE: Why Rotating Queries and Keys Encodes Relative Position](https://www.deep-ml.com/math-problems/276) | medium | 2026-10-17 | [solution](math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position) |
 
 ---
 

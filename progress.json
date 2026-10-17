@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:51:07.265Z",
+  "generated_at": "2026-10-17T17:03:16.575Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1029,6 +1029,17 @@
       "path": "math/0264-catastrophic-forgetting-as-curvature-weighted-displacement",
       "first_solved_at": "2026-10-17T16:51:06.299Z",
       "last_pushed_at": "2026-10-17T16:51:06.299Z"
+    },
+    "math:276": {
+      "kind": "math",
+      "id": "276",
+      "title": "RoPE: Why Rotating Queries and Keys Encodes Relative Position",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/276",
+      "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
+      "first_solved_at": "2026-10-17T17:03:16.026Z",
+      "last_pushed_at": "2026-10-17T17:03:16.026Z"
     }
   }
 }
