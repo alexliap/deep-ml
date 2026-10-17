@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 69 problems · 0 labs · 11 math
+**81** solved · 69 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Adjacency, Degree and the Normalized Adjacency Matrix](https://www.deep-ml.com/math-problems/187) | easy | 2026-09-28 | [solution](math/0187-adjacency-degree-and-the-normalized-adjacency-matrix) |
 | [ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks](https://www.deep-ml.com/math-problems/174) | easy | 2026-09-28 | [solution](math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks) |
+| [Catastrophic Forgetting as Curvature-Weighted Displacement](https://www.deep-ml.com/math-problems/264) | easy | 2026-10-17 | [solution](math/0264-catastrophic-forgetting-as-curvature-weighted-displacement) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-29 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Cost per Million Tokens and the Break-Even Point](https://www.deep-ml.com/math-problems/169) | easy | 2026-09-29 | [solution](math/0169-cost-per-million-tokens-and-the-break-even-point) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-29 | [solution](math/0001-derivatives-and-gradients) |
