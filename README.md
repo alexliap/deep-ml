@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 71 problems · 0 labs · 13 math
+**85** solved · 72 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-10-08 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-10-20 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-06 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-10-20 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-02 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 
