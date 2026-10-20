@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 69 problems · 0 labs · 13 math
+**83** solved · 70 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-27 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-26 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Estimate KV-Cache Memory for MHA vs Linear Attention](https://www.deep-ml.com/problems/1019) | easy | 2026-10-20 | [solution](problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-11-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-29 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:03:16.575Z",
+  "generated_at": "2026-10-20T13:36:07.749Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1040,6 +1040,19 @@
       "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
       "first_solved_at": "2026-10-17T17:03:16.026Z",
       "last_pushed_at": "2026-10-17T17:03:16.026Z"
+    },
+    "problem:1019": {
+      "kind": "problem",
+      "id": "1019",
+      "title": "Estimate KV-Cache Memory for MHA vs Linear Attention",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1019",
+      "path": "problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention",
+      "first_solved_at": "2026-10-20T13:36:07.010Z",
+      "last_pushed_at": "2026-10-20T13:36:07.010Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
