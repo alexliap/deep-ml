@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 72 problems · 0 labs · 13 math
+**86** solved · 72 problems · 1 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-10-20 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-02 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-20 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
