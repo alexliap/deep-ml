@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 70 problems · 0 labs · 13 math
+**84** solved · 71 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-01 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Truncate KV Cache for Sliding Window Attention](https://www.deep-ml.com/problems/1041) | medium | 2026-10-06 | [solution](problems/1041-truncate-kv-cache-for-sliding-window-attention) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-10-08 | [solution](problems/0088-gpt-2-text-generation) |
+| [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-10-20 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-06 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-29 | [solution](problems/0085-positional-encoding-calculator) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-02 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
