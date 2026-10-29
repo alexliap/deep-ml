@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:25:03.861Z",
+  "generated_at": "2026-10-29T11:28:31.559Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1168,6 +1168,19 @@
       "path": "problems/1273-tensor-puzzle-upper-triangular-ones-matrix",
       "first_solved_at": "2026-10-29T11:25:03.240Z",
       "last_pushed_at": "2026-10-29T11:25:03.240Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:1274": {
+      "kind": "problem",
+      "id": "1274",
+      "title": "Tensor Puzzle: Cumulative Sum via Triangular Matmul",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1274",
+      "path": "problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul",
+      "first_solved_at": "2026-10-29T11:28:30.851Z",
+      "last_pushed_at": "2026-10-29T11:28:30.851Z",
       "language": "python",
       "lines": 10
     }
