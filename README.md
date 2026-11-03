@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 81 problems · 2 labs · 13 math
+**97** solved · 82 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-10-29 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-01 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Truncate KV Cache for Sliding Window Attention](https://www.deep-ml.com/problems/1041) | medium | 2026-10-06 | [solution](problems/1041-truncate-kv-cache-for-sliding-window-attention) |
+| [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-11-03 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-10-08 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-10-20 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-06 | [solution](problems/0094-implement-multi-head-attention) |
