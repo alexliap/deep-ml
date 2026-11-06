@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**106** solved · 91 problems · 2 labs · 13 math
+**107** solved · 92 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Estimate KV-Cache Memory for MHA vs Linear Attention](https://www.deep-ml.com/problems/1019) | easy | 2026-10-20 | [solution](problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-11-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-26 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-11-06 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-29 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2024-11-22 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-08 | [solution](problems/0114-implement-global-average-pooling) |
