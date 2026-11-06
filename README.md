@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 93 problems · 2 labs · 13 math
+**109** solved · 94 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-09-30 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-10-01 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-06 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-02 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-04 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-11-04 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
