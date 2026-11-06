@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 90 problems · 2 labs · 13 math
+**106** solved · 91 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-09-30 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-10-08 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-11-06 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-11-06 | [solution](problems/1327-compiling-functions-with-jax-jit) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-16 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-27 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-26 | [solution](problems/0116-derivative-of-a-polynomial) |
