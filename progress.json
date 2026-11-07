@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:59:36.159Z",
+  "generated_at": "2026-11-07T11:00:01.330Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1427,7 +1427,7 @@
       "url": "https://www.deep-ml.com/problems/421",
       "path": "problems/0421-gpu-ops-byte-ratio-calculation-from-spec-sheet",
       "first_solved_at": "2026-11-07T10:58:30.495Z",
-      "last_pushed_at": "2026-11-07T10:58:30.495Z",
+      "last_pushed_at": "2026-11-07T11:00:00.490Z",
       "language": "python",
       "lines": 18
     }
