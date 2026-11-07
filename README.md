@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 94 problems · 2 labs · 13 math
+**110** solved · 95 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-06 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-02 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-04 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-07 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-11-04 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-04 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-10-07 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
