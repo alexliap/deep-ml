@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:58:31.128Z",
+  "generated_at": "2026-11-07T10:59:36.159Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1414,7 +1414,7 @@
       "url": "https://www.deep-ml.com/problems/414",
       "path": "problems/0414-compute-arithmetic-intensity-and-classify-bottleneck",
       "first_solved_at": "2026-11-07T00:24:00.064Z",
-      "last_pushed_at": "2026-11-07T00:24:00.064Z",
+      "last_pushed_at": "2026-11-07T10:59:30.847Z",
       "language": "python",
       "lines": 25
     },
