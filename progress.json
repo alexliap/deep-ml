@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:55:42.868Z",
+  "generated_at": "2026-11-07T20:22:53.810Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1430,6 +1430,19 @@
       "last_pushed_at": "2026-11-07T11:00:00.490Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1302": {
+      "kind": "problem",
+      "id": "1302",
+      "title": "INT8 KV-Cache Quantize and Dequantize",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1302",
+      "path": "problems/1302-int8-kv-cache-quantize-and-dequantize",
+      "first_solved_at": "2026-11-07T20:22:53.224Z",
+      "last_pushed_at": "2026-11-07T20:22:53.224Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

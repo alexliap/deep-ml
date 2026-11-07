@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 97 problems · 2 labs · 13 math
+**113** solved · 98 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-11-04 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-29 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [INT8 KV-Cache Quantize and Dequantize](https://www.deep-ml.com/problems/1302) | medium | 2026-11-07 | [solution](problems/1302-int8-kv-cache-quantize-and-dequantize) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-03-21 | [solution](problems/0017-k-means-clustering) |
 | [KV Cache Estimator with Sliding Window Attention](https://www.deep-ml.com/problems/1014) | medium | 2026-10-06 | [solution](problems/1014-kv-cache-estimator-with-sliding-window-attention) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-03-21 | [solution](problems/0009-matrix-times-matrix) |
