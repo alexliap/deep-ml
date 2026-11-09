@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:22:53.810Z",
+  "generated_at": "2026-11-09T12:16:55.269Z",
   "items": {
     "math:169": {
       "kind": "math",
@@ -1443,6 +1443,19 @@
       "last_pushed_at": "2026-11-07T20:22:53.224Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:423": {
+      "kind": "problem",
+      "id": "423",
+      "title": "Multi-Instance GPU (MIG) Resource Allocation",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/423",
+      "path": "problems/0423-multi-instance-gpu-mig-resource-allocation",
+      "first_solved_at": "2026-11-09T12:16:54.480Z",
+      "last_pushed_at": "2026-11-09T12:16:54.480Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 98 problems · 2 labs · 13 math
+**114** solved · 99 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-03-21 | [solution](problems/0007-matrix-transformation) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-09-16 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-30 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [Multi-Instance GPU (MIG) Resource Allocation](https://www.deep-ml.com/problems/423) | medium | 2026-11-09 | [solution](problems/0423-multi-instance-gpu-mig-resource-allocation) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-16 | [solution](problems/0313-numerical-gradient-checking) |
 | [Roofline Model Analysis for GPU Operations](https://www.deep-ml.com/problems/415) | medium | 2026-11-06 | [solution](problems/0415-roofline-model-analysis-for-gpu-operations) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-10-06 | [solution](problems/0388-sliding-window-attention) |
